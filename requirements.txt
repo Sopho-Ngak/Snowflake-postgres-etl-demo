@@ -1,0 +1,6 @@
+pandas==1.1.5
+ipython==8.22.2
+SQLAlchemy==1.4.40
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+snowflake-connector-python[pandas]==3.7.1
